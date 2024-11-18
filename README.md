@@ -81,14 +81,16 @@ const faris = {
 ![Nginx](https://img.shields.io/badge/Nginx-009900?style=for-the-badge&logo=nginx&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📈 GitHub Stats
-
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faris-PK&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+  <!-- Languages Card - Compact -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faris-PK&layout=compact&theme=tokyonight&hide_border=true&show_icons=true" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Faris-PK&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <!-- Stats Card - Compact -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Faris-PK&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faris-PK&theme=radical" alt="GitHub Streak" />
+  <!-- Streak Stats - Compact -->
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Faris-PK&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
