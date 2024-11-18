@@ -15,9 +15,9 @@
     <a href="https://www.linkedin.com/in/faris-pk-8aa6a0299/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://www.instagram.com/fari.pk/">
+<!--     <a href="https://www.instagram.com/fari.pk/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
+    </a> -->
     <a href="https://leetcode.com/u/Faris_pk/">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
